@@ -1,0 +1,68 @@
+const products =  [
+    {
+      _id: "1",
+      url: "https://picsum.photos/id/400/800/600",
+      name: "Shirt",
+      Distance: "5.3 km",
+      Date: 50,
+      stars: 5,
+    },
+    {
+      _id: "2",
+      url: "https://picsum.photos/id/401/800/600",
+      name: "Slim Shirt",
+      Distance: "12.5 km",
+      Date: 160,
+      stars: 4.5,
+    },
+    {
+      _id: "3",
+      url: "https://picsum.photos/id/502/800/600",
+      name: "Slim Pants",
+      Distance: "7.7",
+      Date: 160,
+      stars: 4.0,
+    },
+    {
+      _id: "4",
+      url: "https://picsum.photos/id/1010/800/600",
+      name: "Slim Shirt",
+      Distance: "8.5 km",
+      Date: 60,
+      stars: 4.5,
+    },
+    {
+      _id: "5",
+      url: "https://picsum.photos/id/1000/800/600",
+      name: "Slim Shirt",
+      Distance: "5.5 km",
+      Date: 60,
+      stars: 4.5,
+    },
+    {
+      _id: "6",
+      url: "https://picsum.photos/id/912/800/600",
+      name: "Slim Shirt",
+      Distance: "10.0 km",
+      Date: 60,
+      stars: 4.5,
+    },
+    {
+      _id: "7",
+      url: "https://picsum.photos/id/1012/800/600",
+      name: "Slim Shirt",
+      Distance: "7.5 km",
+      Date: 60,
+      stars: 4.5,
+    },
+    {
+      _id: "8",
+      url: "https://picsum.photos/800/600",
+      name: "Slim Shirt",
+      Distance: "8.9 km",
+      Date: 60,
+      stars: 4.5,
+    },
+  ];
+
+export default products;
